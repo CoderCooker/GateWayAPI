@@ -27,3 +27,5 @@ $ ./bin/rest-go-server
 Test the app
 $ curl http://localhost:8080/signup
 
+
+
