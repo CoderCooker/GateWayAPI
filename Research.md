@@ -6,3 +6,6 @@ research:
 
 idea :
   abstract layer on top of  namespaces, using label/annotation, concept like GNS
+
+Questions:
+  How low-level protocol package forwarding are implemented or configured on ingress/envoy level ? 
